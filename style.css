@@ -1,0 +1,173 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #d5b9d1; 
+  font-family: "Bogart";
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: white;
+  text-align:center;
+
+}
+h3 {
+  color: white;
+  text-align: center;
+  padding-bottom:2em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+nav {
+  color: white;
+}
+a {
+  color: white;
+}
+
+header {
+  background-color: #5d3b83;
+  padding-top: 1%;
+  padding-bottom:1%;
+}
+
+#water {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border: 10px solid white;
+  margin-top: 2em;
+  max-width:100%;
+}
+
+#links {
+  color: #5d3b83;
+  /* border:10px solid white; */
+  margin-top:0.5em;
+  font-size: 35px;
+}
+#adjust {
+  font-size: 25px;
+}
+
+#order {
+  color: #5d3b83;
+  text-align: center;
+  padding-bottom:2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+  font-size: 25px;
+}
+
+#orderform {
+  margin-left: 38%;
+  border: 10px solid white;
+  font-size: 35px;
+  padding:0.5em;
+  color: #5d3b83;
+
+}
+
+
+
+
+#custom {
+  font-size: 25px;
+}
+/* STYLE IMAGES */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  border-radius: 50%;
+  border: 10px solid white;
+  margin-top: 2em;
+}
+
+#mainpage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  max-width: 25%;
+  border-radius: 50%;
+  margin-top: 2em;
+  padding-bottom: 2em;
+}
+/* STYLE NAV BAR */
+
+ul {
+  list-style-type: none;
+  background-color: #5d3b83;
+  overflow:hidden;
+  padding: 1em;
+  text-align:center;
+
+}
+
+li {
+  display:inline;
+
+}
+
+li a{
+  text-decoration: none;
+  padding:2em;
+  font-size:1.5em;
+
+}
+
+li a:hover{
+  background-color:#ccacc7;
+}
+
+/* THEME GRID */
+.theme-grid {
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px; */
+  text-align: center;
+  font-size: 1.5em;
+  color: #5d3b83;
+
+}
+
+.theme-grid img {
+  width: 100%;
+  border-radius: 10px;
+  transition: transform 0.2s ease;
+}
+
+.theme-grid img:hover {
+  transform: scale(1.05);
+}
+
+/* GALLERY */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+  padding: 20px;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.gallery-item {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+}
+
+.price {
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+
+
+
