@@ -97,30 +97,41 @@ header {
   padding-bottom: 2em;
 }
 /* STYLE NAV BAR */
-
 ul {
-  list-style-type: none;
   background-color: #5d3b83;
-  overflow:hidden;
+  overflow: hidden;
   padding: 1em;
-  text-align:center;
-
+  display: flex;
+  gap: 1.5rem;  /* space between links */
+  list-style: none;
+  justify-content: center;  /* center horizontally */
+  align-items: center;      /* center vertically if needed */
 }
 
 li {
-  display:inline;
-
+  display: inline;
 }
 
-li a{
+li a {
   text-decoration: none;
-  padding:2em;
-  font-size:1.5em;
-
+  padding: 1em;
+  font-size: 1.5em;
 }
 
-li a:hover{
-  background-color:#ccacc7;
+li a:hover {
+  background-color: #ccacc7;
+}
+
+/* Mobile layout */
+@media (max-width: 900px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;   /* center the stacked items */
+  }
+
+  nav li {
+    margin-bottom: 0.5rem;
+  }
 }
 
 /* THEME GRID */
