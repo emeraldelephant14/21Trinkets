@@ -14,7 +14,19 @@ const themes = {
       { src: "images/pokemon_rockruff.png", price: "$8" },
       { src: "images/pokemon_rowlet.png", price: "$8" },
       { src: "images/pokemon_snorlax.png", price: "$8" },
-      { src: "images/pumpkaboo.png", price: "$8" }
+      { src: "images/pumpkaboo.png", price: "$8" },
+      { src: "images/pokemon_piplup.png", price: "$8" },
+      { src: "images/pokemon_mimikyu.png", price: "$8" },
+      { src: "images/pokemon_umbreon.png", price: "$8" },
+      { src: "images/pokemon_oshowatt.png", price: "$8" },
+      { src: "images/pokemon_morpeko.png", price: "$8" },
+      { src: "images/pokemon_litwick.png", price: "$8" },
+      { src: "images/pokemon_ralts.png", price: "$8" },
+      { src: "images/pokemon_jolteon.png", price: "$8" },
+      { src: "images/pokemon_teddiursa.png", price: "$8" },
+      { src: "images/pokemon_espeon.png", price: "$8" },
+      { src: "images/pokemon_flaffy.png", price: "$8" },
+      { src: "images/pokemon_pachirisu.png", price: "$8" }
     ]
   },
   fruit: {
