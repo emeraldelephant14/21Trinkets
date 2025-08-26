@@ -32,7 +32,7 @@ const themes = {
   fruit: {
     title: "Fruit Phone Charms",
     items: [
-      { src: "images/fruit_peach.png", price: "$4" },
+      { src: "images/fruit_peach.png", price: "$5" },
       { src: "images/fruit_blueberry.png", price: "$4" },
       { src: "images/fruit_blueberry2.png", price: "$4" },
       { src: "images/fruit_strawberry.png", price: "$4" },
