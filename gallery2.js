@@ -51,7 +51,18 @@ const themes = {
       {src: "images/sea_1.png", price: "$2"},
       {src: "images/sea_2.png", price: "$2"},
       {src: "images/sea_3.png", price: "$2"},
-      {src: "images/sea_4.png", price: "$3"}
+      {src: "images/sea_4.png", price: "$3"},
+      {src: "images/sea_5.png", price: "$3"},
+      {src: "images/sea_6.png", price: "$2"}
+    ]
+  },
+
+  enchanted: {
+    title: "Enchanted Forest Earrings",
+    items: [
+      {src: "images/enchanted_1.png", price: "$2"},
+      {src: "images/enchanted_2.png", price: "$4"},
+      {src: "images/enchanted_3.png", price: "$5"}
     ]
   }
   // Add more themes here...
