@@ -41,7 +41,10 @@ const themes = {
       {src: "images/spring_1.png", price: "$2"},
       {src: "images/spring_2.png", price: "$2"},
       {src: "images/spring_3.png", price: "$2"},
-      {src: "images/spring_4.png", price: "$2"}
+      {src: "images/spring_4.png", price: "$2"},
+      {src: "images/spring_5.png", price: "$4"},
+      {src: "images/spring_6.png", price: "$2"},
+      {src: "images/spring_7.png", price: "$2"}
     ]
   },
   
