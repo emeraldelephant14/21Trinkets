@@ -65,7 +65,9 @@ const themes = {
     items: [
       {src: "images/enchanted_1.png", price: "$2"},
       {src: "images/enchanted_2.png", price: "$4"},
-      {src: "images/enchanted_3.png", price: "$5"}
+      {src: "images/enchanted_3.png", price: "$5"},
+      {src: "images/enchanted_4.png", price: "$3"},
+      {src: "images/enchanted_5.png", price: "$2"}
     ]
   }
   // Add more themes here...
