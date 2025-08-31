@@ -19,7 +19,8 @@ const themes = {
       {src: "images/dessert6.png", price: "$2"},
       {src: "images/dessert_7.png", price: "$2"},
       {src: "images/dessert_8.png", price: "$3"},
-      {src: "images/dessert_9.png", price: "$3"}
+      {src: "images/dessert_9.png", price: "$3"},
+      {src: "images/dessert_10.png", price: "$5"}
 
     ]
   },
@@ -46,7 +47,8 @@ const themes = {
       {src: "images/spring_4.png", price: "$2"},
       {src: "images/spring_5.png", price: "$4"},
       {src: "images/spring_6.png", price: "$2"},
-      {src: "images/spring_7.png", price: "$2"}
+      {src: "images/spring_7.png", price: "$2"},
+      {src: "images/spring_8.png", price: "$3"}
     ]
   },
   
