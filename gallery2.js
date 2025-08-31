@@ -18,7 +18,8 @@ const themes = {
       {src: "images/creamsicle.png", price: "$4"},
       {src: "images/dessert6.png", price: "$2"},
       {src: "images/dessert_7.png", price: "$2"},
-      {src: "images/dessert_8.png", price: "$3"}
+      {src: "images/dessert_8.png", price: "$3"},
+      {src: "images/dessert_9.png", price: "$3"}
 
     ]
   },
@@ -30,7 +31,8 @@ const themes = {
       {src: "images/planet.png", price: "$2"},
       {src: "images/celestial2.png", price: "$2"},
       {src: "images/celestial3.png", price: "$2"},
-      {src: "images/celestial4.png", price: "$8"}
+      {src: "images/celestial4.png", price: "$8"},
+      {src: "images/celestial_5.png", price: "$4"}
   
     ]
   },
