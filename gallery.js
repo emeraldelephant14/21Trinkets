@@ -50,6 +50,16 @@ const themes = {
       { src: "images/pdessert_5.png", price: "$7" },
       { src: "images/gummyshark1.png", price: "$7" }
     ]
+  },
+
+    friend: {
+    title: "Friendship Phone Charms",
+    items: [
+      { src: "images/friend_1.png", price: "$16" },
+      { src: "images/friend_2.png", price: "$16" },
+      { src: "images/friend_3.png", price: "$16" },
+      { src: "images/friend_4.png", price: "$16" }
+    ]
   }
   
 };
