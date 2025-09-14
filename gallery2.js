@@ -10,15 +10,15 @@ const themes = {
   dessert: {
     title: "Fruit + Dessert Earrings",
     items: [
-      {src: "images/dessert_1.png", price: "$2.50"},
-      {src: "images/dessert_2.png", price: "$3"},
-      {src: "images/dessert_3.png", price: "$3"},
+      {src: "images/dessert_1.png", price: "$4"},
+      {src: "images/dessert_2.png", price: "$5"},
+      {src: "images/dessert_3.png", price: "$5"},
       {src: "images/dessert_4.png", price: "$6"},
       {src: "images/dessert_5.png", price: "$6"},
       {src: "images/creamsicle.png", price: "$4"},
       {src: "images/dessert6.png", price: "$2"},
       {src: "images/dessert_7.png", price: "$2"},
-      {src: "images/dessert_8.png", price: "$3"},
+      {src: "images/dessert_8.png", price: "$4"},
       {src: "images/dessert_9.png", price: "$3"},
       {src: "images/dessert_10.png", price: "$5"}
 
@@ -27,13 +27,13 @@ const themes = {
   celestial: {
     title: "Celestial Earrings",
     items: [
-      {src: "images/celestial_1.png", price: "$4"},
+      {src: "images/celestial_1.png", price: "$6"},
       {src: "images/star.png", price: "$2"},
       {src: "images/planet.png", price: "$2"},
       {src: "images/celestial2.png", price: "$2"},
       {src: "images/celestial3.png", price: "$2"},
       {src: "images/celestial4.png", price: "$8"},
-      {src: "images/celestial_5.png", price: "$4"}
+      {src: "images/celestial_5.png", price: "$3"}
   
     ]
   },
