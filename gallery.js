@@ -26,7 +26,14 @@ const themes = {
       { src: "images/pokemon_teddirusa.png", price: "$8" },
       { src: "images/pokemon_espeon.png", price: "$8" },
       { src: "images/pokemon_flaffy.png", price: "$8" },
-      { src: "images/pokemon_pachirisu.png", price: "$8" }
+      { src: "images/pokemon_pachirisu.png", price: "$8" },
+      { src: "images/pokemon_espurr.png", price: "$8" },
+      { src: "images/pokemon_victini.png", price: "$8" },
+      { src: "images/pokemon_squirtle.png", price: "$8" },
+      { src: "images/pokemon_charmander.png", price: "$8" },
+      { src: "images/pokemon_bulbasaur.png", price: "$8" },
+      { src: "images/pokemon_eevee.png", price: "$8" },
+      { src: "images/pokemon_togedemaru.png", price: "$8" }
     ]
   },
   fruit: {
@@ -48,6 +55,8 @@ const themes = {
       { src: "images/pdessert_3.png", price: "$7" },
       { src: "images/pdessert_4.png", price: "$7" },
       { src: "images/pdessert_5.png", price: "$7" },
+      { src: "images/pdessert_6.png", price: "$7" },
+      { src: "images/pdessert_7.png", price: "$7" },
       { src: "images/gummyshark1.png", price: "$7" }
     ]
   },
