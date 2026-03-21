@@ -1,3 +1,37 @@
+/* Sunrise */
+:root {
+  /* Brand Colors */
+  --color-primary: #E8913A;
+  --color-primary-dark: #D07A2F;
+  --color-secondary: #2C3E50;
+  --color-accent: #F4D03F;
+  --color-accent-2: #27AE60;
+
+  /* Neutrals */
+  --color-bg: #FFF8F0;
+  --color-bg-card: #FFFFFF;
+  --color-bg-card-hover: #FFF2E6;
+  --color-surface: #FAF5EF;
+  --color-text: #2C3E50;
+  --color-text-muted: #7F8C8D;
+  --color-border: rgba(44, 62, 80, 0.1);
+
+  /* Typography */
+  --font-heading: 'Playfair Display', Georgia, serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-accent: 'Playfair Display', Georgia, serif;
+
+  /* Spacing */
+  --section-padding: 6rem 0;
+  --container-max: 1200px;
+  --border-radius: 16px;
+  --border-radius-sm: 8px;
+
+  /* Transitions */
+  --transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 /* STYLE SECTIONING TAGS */
 body {
  background-color: #d5b9d1; 
