@@ -202,15 +202,82 @@ li a:hover {
   border-radius: 8px;
 }
 
-.gallery-item {
+/*.gallery-item {
   display: inline-block;
   text-align: center;
   margin: 10px;
 }
-
+*/
 .price {
   font-weight: bold;
   margin-top: 5px;
+}
+
+/* updates below */
+.gallery-placeholder {
+  position: relative;
+  overflow: hidden;
+}
+
+.gallery-placeholder img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+/* text overlay */
+.gallery-placeholder p,
+.gallery-placeholder span {
+  position: relative;
+  z-index: 1;
+  color: white;
+  font-weight: 600;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.6);
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: 250px;
+  gap: 1rem;
+}
+
+.gallery-item {
+  border-radius: var(--border-radius);
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+}
+
+.gallery-large {
+  grid-column: span 2;
+}
+
+.gallery-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  transition: var(--transition-slow);
+}
+
+.gallery-placeholder span { font-size: 3rem; }
+
+.gallery-placeholder p {
+  color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.gallery-item:hover .gallery-placeholder {
+  transform: scale(1.05);
 }
 
 
