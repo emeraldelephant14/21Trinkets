@@ -22,6 +22,7 @@ const themes = {
       {src: "images/dessert_9.png", price: "$3"},
       {src: "images/dessert_10.png", price: "$5"},
       {src: "images/dessert_11.png", price: "$6"}
+      
 
     ]
   },
@@ -34,7 +35,8 @@ const themes = {
       {src: "images/celestial2.png", price: "$2"},
       {src: "images/celestial3.png", price: "$2"},
       {src: "images/celestial4.png", price: "$8"},
-      {src: "images/celestial_5.png", price: "$3"}
+      {src: "images/celestial_5.png", price: "$3"},
+      {src: "images/celestial_6.png", price: "$3"}
   
     ]
   },
@@ -49,7 +51,8 @@ const themes = {
       {src: "images/spring_5.png", price: "$4"},
       {src: "images/spring_6.png", price: "$2"},
       {src: "images/spring_7.png", price: "$2"},
-      {src: "images/spring_8.png", price: "$5"}
+      {src: "images/spring_8.png", price: "$5"},
+      {src: "images/spring_9.png", price: "$5"}
     ]
   },
   
@@ -72,7 +75,10 @@ const themes = {
       {src: "images/enchanted_2.png", price: "$4"},
       {src: "images/enchanted_3.png", price: "$5"},
       {src: "images/enchanted_4.png", price: "$3"},
-      {src: "images/enchanted_5.png", price: "$2"}
+      {src: "images/enchanted_5.png", price: "$2"},
+      {src: "images/enchanted_6.png", price: "$3"},
+      {src: "images/enchanted_7.png", price: "$3"},
+      {src: "images/enchanted_8.png", price: "$3"}
     ]
   }
   // Add more themes here...
