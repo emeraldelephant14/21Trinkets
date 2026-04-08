@@ -72,7 +72,7 @@ const themes = {
       { src: "images/friend_2.png", price: "$16" },
       { src: "images/friend_3.png", price: "$16" },
       { src: "images/friend_4.png", price: "$16" },
-      { src: "images/friend_5.png", prince = "16" }
+      { src: "images/friend_5.png", prince: "16" }
     ]
   }
   
