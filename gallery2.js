@@ -20,7 +20,8 @@ const themes = {
       {src: "images/dessert_7.png", price: "$2"},
       {src: "images/dessert_8.png", price: "$4"},
       {src: "images/dessert_9.png", price: "$3"},
-      {src: "images/dessert_10.png", price: "$5"}
+      {src: "images/dessert_10.png", price: "$5"},
+      {src: "images/dessert_11.png", price: "$6"}
 
     ]
   },
