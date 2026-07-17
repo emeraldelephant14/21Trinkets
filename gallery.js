@@ -37,7 +37,13 @@ const themes = {
       { src: "images/pokemon_jirachi.png", price: "$10" },
       { src: "images/pokemon_noibat.png", price: "$10" },
       { src: "images/pokemon_marshadow.png", price: "$10" },
-      { src: "images/pokemon_celebi.png", price: "$10" }
+      { src: "images/pokemon_celebi.png", price: "$10" },
+      { src: "images/pokemon_espeon.png", price: "$10" },
+      { src: "images/pokemon_leafeon.png", price: "$10" },
+      { src: "images/pokemon_flareon.png", price: "$10" },
+      { src: "images/pokemon_jolteon.png", price: "$10" },
+      { src: "images/pokemon_buizel.png", price: "$10" },
+      { src: "images/pokemon_fennekin.png", price: "$10" }
     ]
   },
   fruit: {
