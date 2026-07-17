@@ -80,6 +80,13 @@ const themes = {
       {src: "images/enchanted_7.png", price: "$3"},
       {src: "images/enchanted_8.png", price: "$3"}
     ]
+  },
+
+  extra: {
+    title: "Extra Earrings",
+    items: [
+      {src:"images/extra_1.png", price: "$10"}
+      ]
   }
   // Add more themes here...
 };
