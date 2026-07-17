@@ -10,44 +10,44 @@ const themes = {
   pokemon: {
     title: "Pokemon Phone Charms",
     items: [
-      { src: "images/pokemon_mew.png", price: "$8" },
-      { src: "images/pokemon_rockruff.png", price: "$8" },
-      { src: "images/pokemon_rowlet.png", price: "$8" },
-      { src: "images/pokemon_snorlax.png", price: "$8" },
-      { src: "images/pumpkaboo.png", price: "$8" },
-      { src: "images/pokemon_piplup.png", price: "$8" },
-      { src: "images/pokemon_mimikyu.png", price: "$8" },
-      { src: "images/pokemon_umbreon.png", price: "$8" },
-      { src: "images/pokemon_oshawott.png", price: "$8" },
-      { src: "images/pokemon_morpeko.png", price: "$8" },
-      { src: "images/pokemon_litwick.png", price: "$8" },
-      { src: "images/pokemon_ralts.png", price: "$8" },
-      { src: "images/pokemon_jolteon.png", price: "$8" },
-      { src: "images/pokemon_teddirusa.png", price: "$8" },
-      { src: "images/pokemon_espeon.png", price: "$8" },
-      { src: "images/pokemon_flaffy.png", price: "$8" },
-      { src: "images/pokemon_pachirisu.png", price: "$8" },
-      { src: "images/pokemon_espurr.png", price: "$8" },
-      { src: "images/pokemon_victini.png", price: "$8" },
-      { src: "images/pokemon_squirtle.png", price: "$8" },
-      { src: "images/pokemon_charmander.png", price: "$8" },
-      { src: "images/pokemon_bulbasaur.png", price: "$8" },
-      { src: "images/pokemon_eevee.png", price: "$8" },
-      { src: "images/pokemon_togedemaru.png", price: "$8" },
-      { src: "images/pokemon_jirachi.png", price: "$8" },
-      { src: "images/pokemon_noibat.png", price: "$8" },
-      { src: "images/pokemon_marshadow.png", price: "$8" },
-      { src: "images/pokemon_celebi.png", price: "$8" }
+      { src: "images/pokemon_mew.png", price: "$10" },
+      { src: "images/pokemon_rockruff.png", price: "$10" },
+      { src: "images/pokemon_rowlet.png", price: "$10" },
+      { src: "images/pokemon_snorlax.png", price: "$10" },
+      { src: "images/pumpkaboo.png", price: "$10" },
+      { src: "images/pokemon_piplup.png", price: "$10" },
+      { src: "images/pokemon_mimikyu.png", price: "$10" },
+      { src: "images/pokemon_umbreon.png", price: "$10" },
+      { src: "images/pokemon_oshawott.png", price: "$10" },
+      { src: "images/pokemon_morpeko.png", price: "$10" },
+      { src: "images/pokemon_litwick.png", price: "$10" },
+      { src: "images/pokemon_ralts.png", price: "$10" },
+      { src: "images/pokemon_jolteon.png", price: "$10" },
+      { src: "images/pokemon_teddirusa.png", price: "$10" },
+      { src: "images/pokemon_espeon.png", price: "$10" },
+      { src: "images/pokemon_flaffy.png", price: "$10" },
+      { src: "images/pokemon_pachirisu.png", price: "$10" },
+      { src: "images/pokemon_espurr.png", price: "$10" },
+      { src: "images/pokemon_victini.png", price: "$10" },
+      { src: "images/pokemon_squirtle.png", price: "$10" },
+      { src: "images/pokemon_charmander.png", price: "$10" },
+      { src: "images/pokemon_bulbasaur.png", price: "$10" },
+      { src: "images/pokemon_eevee.png", price: "$10" },
+      { src: "images/pokemon_togedemaru.png", price: "$10" },
+      { src: "images/pokemon_jirachi.png", price: "$10" },
+      { src: "images/pokemon_noibat.png", price: "$10" },
+      { src: "images/pokemon_marshadow.png", price: "$10" },
+      { src: "images/pokemon_celebi.png", price: "$10" }
     ]
   },
   fruit: {
     title: "Fruit Phone Charms",
     items: [
       { src: "images/fruit_peach.png", price: "$5" },
-      { src: "images/fruit_blueberry.png", price: "$4" },
-      { src: "images/fruit_blueberry2.png", price: "$4" },
-      { src: "images/fruit_strawberry.png", price: "$4" },
-      { src: "images/fruit_strawberry2.png", price: "$4" }
+      { src: "images/fruit_blueberry.png", price: "$5" },
+      { src: "images/fruit_blueberry2.png", price: "$5" },
+      { src: "images/fruit_strawberry.png", price: "$5" },
+      { src: "images/fruit_strawberry2.png", price: "$5" }
     ]
   },
   // Add more themes here...
@@ -68,11 +68,11 @@ const themes = {
     friend: {
     title: "Friendship Phone Charms",
     items: [
-      { src: "images/friend_1.png", price: "$16" },
-      { src: "images/friend_2.png", price: "$16" },
-      { src: "images/friend_3.png", price: "$16" },
-      { src: "images/friend_4.png", price: "$16" },
-      { src: "images/friend_5.png", prince: "16" }
+      { src: "images/friend_1.png", price: "$20" },
+      { src: "images/friend_2.png", price: "$20" },
+      { src: "images/friend_3.png", price: "$20" },
+      { src: "images/friend_4.png", price: "$20" },
+      { src: "images/friend_5.png", prince: "$20" }
     ]
   }
   
