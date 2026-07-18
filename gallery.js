@@ -22,9 +22,7 @@ const themes = {
       { src: "images/pokemon_morpeko.png", price: "$10" },
       { src: "images/pokemon_litwick.png", price: "$10" },
       { src: "images/pokemon_ralts.png", price: "$10" },
-      { src: "images/pokemon_jolteon.png", price: "$10" },
       { src: "images/pokemon_teddirusa.png", price: "$10" },
-      { src: "images/pokemon_espeon.png", price: "$10" },
       { src: "images/pokemon_flaffy.png", price: "$10" },
       { src: "images/pokemon_pachirisu.png", price: "$10" },
       { src: "images/pokemon_espurr.png", price: "$10" },
@@ -38,10 +36,10 @@ const themes = {
       { src: "images/pokemon_noibat.png", price: "$10" },
       { src: "images/pokemon_marshadow.png", price: "$10" },
       { src: "images/pokemon_celebi.png", price: "$10" },
-      { src: "images/pokemon_espeon.png", price: "$10" },
+      { src: "images/pokemon_espeon1.png", price: "$10" },
       { src: "images/pokemon_leafeon.png", price: "$10" },
       { src: "images/pokemon_flareon.png", price: "$10" },
-      { src: "images/pokemon_jolteon.png", price: "$10" },
+      { src: "images/pokemon_jolteon1.png", price: "$10" },
       { src: "images/pokemon_buizel.png", price: "$10" },
       { src: "images/pokemon_fennekin.png", price: "$10" }
     ]
