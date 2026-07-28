@@ -23,7 +23,9 @@ const themes = {
       {src: "images/dessert_10.png", price: "$6"},
       {src: "images/dessert_11.png", price: "$6"},
       {src: "images/dessert_12.png", price: "$6"},
-      {src: "images/dessert_13.png", price: "$6"}
+      {src: "images/dessert_13.png", price: "$6"},
+      {src: "images/dessert_14.png", price: "$6"},
+      {src: "images/dessert_15.png", price: "$6"}
       
 
     ]
