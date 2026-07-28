@@ -95,8 +95,10 @@ const themes = {
       {src:"images/extra_1.png", price: "$10"}
       ]
   }
-  // Add more themes here...
+   // Add more themes here...
 };
+
+ 
 
 // Get theme name from URL (e.g., ?theme=night)
 const params = new URLSearchParams(window.location.search);
