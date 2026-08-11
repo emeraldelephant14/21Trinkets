@@ -92,7 +92,7 @@ const themes = {
   extra: {
     title: "Extra Earrings",
     items: [
-      {src:"images/extra_1.png", price: "$10"}
+      {src:"images/eextra_1.png", price: "$10"}
       ]
   }
    // Add more themes here...
