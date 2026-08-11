@@ -80,6 +80,18 @@ const themes = {
       { src: "images/friend_4.png", price: "$20" },
       { src: "images/friend_5.png", price: "$20" }
     ]
+  },
+
+    extra2: {
+    title: "Extra Phone Charms",
+    items: [
+      { src: "images/extra_1.png", price: "$8" },
+      { src: "images/extra_2.png", price: "$8" },
+      { src: "images/extra_3.png", price: "$8" },
+      { src: "images/extra_4.png", price: "$8" },
+      { src: "images/extra_5.png", price: "$10" },
+      { src: "images/extra_6.png", price: "$10 (each)" }
+    ]
   }
   
 };
