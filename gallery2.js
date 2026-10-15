@@ -41,7 +41,8 @@ const themes = {
       {src: "images/celestial4.png", price: "$8"},
       {src: "images/celestial_5.png", price: "$3"},
       {src: "images/celestial_6.png", price: "$3"},
-      {src: "images/spring_10.png", price: "$3"}
+      {src: "images/spring_10.png", price: "$3"},
+      {src: "images/celestial_7.png", price: "$6"}
       
   
     ]
