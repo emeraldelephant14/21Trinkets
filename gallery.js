@@ -2,6 +2,7 @@
 const backLink = document.createElement("a");
 backLink.href = "phonecharms.html";
 backLink.textContent = "< Back to Themes";
+// backLink.style.fontSize = "1.2em";
 backLink.classList.add("back-link");
 document.body.insertBefore(backLink, document.body.firstChild);
 
