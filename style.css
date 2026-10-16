@@ -96,10 +96,12 @@ header {
 }
 
 #orderform {
-  margin-left: 38%;
+  display: block;
+  width: fit-content;
+  margin: 0 auto;
   border: 10px solid white;
   font-size: 35px;
-  padding:0.5em;
+  padding: 0.5em;
   color: #5d3b83;
 
 }
@@ -326,6 +328,5 @@ li a:hover {
 .back-link {
   font-size: 1.5em;
 }
-
 
 
