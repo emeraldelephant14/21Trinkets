@@ -48,7 +48,7 @@ const themes = {
       { src: "images/pokemon_cinccino.png", price: "$10" },
       { src: "images/pokemon_breloom.png", price: "$10" },
       { src: "images/pokemon_clefairy.png", price: "$10" },
-      { src: "images/pokemon_pumpkaboo3.png", price: "$10" },
+      { src: "images/pokemon_pumpkaboo2.png", price: "$10" },
       { src: "images/pokemon_banette.png", price: "$10" },
       { src: "images/pokemon_goodra.png", price: "$10" },
       { src: "images/pokemon_murkrow.png", price: "$10" },
